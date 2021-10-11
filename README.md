@@ -41,4 +41,6 @@ vendor/bin/phpunit
 ## Teste usando o insomnia ou Postman:
 ![Captura de tela de 2021-10-11 13-01-48](https://user-images.githubusercontent.com/59266968/136821013-282bc4a4-f4c3-4388-a88d-c88bbcc08d54.png)
 
+## License
 
+MIT © [Mova](https://github.com/guiansoft-dev)
